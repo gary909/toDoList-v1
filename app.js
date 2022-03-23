@@ -15,7 +15,7 @@ app.get("/", function(req, res){
     // res.send("Hello");
     var today = new Date();
     var currentDay = today.getDay();
-    var day = "";
+    // var day = "";
     var dayOfWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
     
 
